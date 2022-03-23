@@ -1,0 +1,3 @@
+hello there this is 3rd day on git
+
+echo "hello Rakesha"
